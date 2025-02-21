@@ -1,4 +1,4 @@
-# string
+# array
 
 Array helper functionality for PHP
 
